@@ -3,16 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-TestDoc documentation
-=====================
+Deploy Sphinx on Github
+=======================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-See what happens when we update this file. Now we cloned the file to a local computer.
+A very short information what did work for me an what did not.  
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
